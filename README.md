@@ -5,6 +5,8 @@
 
 ![Alam.Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=AlamDiego77&show_icons=true&theme=tokyonight)
 
+## Tecnologias que utilizo no meu dia 🖱️
+
 <div style="display: inline_block"><br/>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee" />
