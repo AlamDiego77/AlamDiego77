@@ -1,4 +1,4 @@
-## Olá! Eu sou o **Alam Ferreira** 👨🏼‍💻
+.## Olá! Eu sou o **Alam Ferreira** 👨🏼‍💻
 ### 📬 Meus contatos...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alam-diego-f-ferreira-572943242/)
@@ -6,8 +6,8 @@
 
 <div>
 
-<img loading="lazy" height="175cm" src="https://github-readme-stats.vercel.app/api?username=AlamDiego77&show_icons=true&theme=tokyonight" />
-<img loading="lazy" height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamDiego77&layout=compact&show_icons=true&theme=tokyonight" />
+<img loading="lazy" height="170cm" src="https://github-readme-stats.vercel.app/api?username=AlamDiego77&show_icons=true&theme=tokyonight" />
+<img loading="lazy" height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamDiego77&layout=compact&show_icons=true&theme=tokyonight" />
 
 </div>
 
