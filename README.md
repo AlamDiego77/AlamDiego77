@@ -11,7 +11,7 @@
 
 </div>
 
-## *Tecnologias* que utilizo no meu dia 🖱️
+### *Tecnologias* que utilizo no meu dia 🖱️
 <div style="display: inline_block"><br/>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whitee" />
@@ -23,8 +23,10 @@
     
 </div>
 
+<br>
 
 > Estou iniciando minha jornada no mundo da Programação, com muito foco e disciplina nos estudos e nos projetos acredito que minha evolução tende a aumentar cada vez mais, vamos juntos dominar o incrível mundo das Linguagens de Programação 💻
+<br>
 
 | **Cursos e Treinamentos** | **Link** |
 |-------------|-------------|
