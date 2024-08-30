@@ -6,8 +6,8 @@
 
 <div>
 
-<img loading="lazy" height="170cm" src="https://github-readme-stats.vercel.app/api?username=AlamDiego77&show_icons=true&theme=tokyonight" />
-<img loading="lazy" height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamDiego77&layout=compact&show_icons=true&theme=tokyonight" />
+<img loading="lazy" height="160cm" src="https://github-readme-stats.vercel.app/api?username=AlamDiego77&show_icons=true&theme=tokyonight" />
+<img loading="lazy" height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlamDiego77&layout=compact&show_icons=true&theme=tokyonight" />
 
 </div>
 
