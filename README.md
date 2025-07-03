@@ -35,4 +35,4 @@
 |**Engenharia de Prompts com Claude**| [**Curso**](https://hermes.dio.me/certificates/F0WTVTTV.pdf)|
 |**Introdução à Lógica de Programação**| [**Curso**](https://hermes.dio.me/certificates/V3NZCLBZ.pdf) |
 |**Manipulando Arquivos no Linux**|[**Curso**](https://hermes.dio.me/certificates/GK0VAWID.pdf)  |
-|**Dominando Estrturas de Controle**|[**Curso**](https://hermes.dio.me/certificates/84OWXYPE.pdf) |
+|**Dominando Estruturas de Controle**|[**Curso**](https://hermes.dio.me/certificates/84OWXYPE.pdf) |
